@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "course-manage"
+  },
+  "targets": {
+    "course-manage": {
+      "hosting": {
+        "random-statement": [
+          "RandomProgram"
+        ]
+      }
+    }
+  }
+}
